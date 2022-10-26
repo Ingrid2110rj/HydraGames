@@ -1,4 +1,4 @@
-<h1>QA Cypress Challenge for Coodesh</h1>
+<h1>Teste Game - QA</h1>
 
 ![Logo](https://github.com/Ingrid2110rj/testing-coodesh/blob/main/logo.jfif)
 
