@@ -1,6 +1,7 @@
-<h1>Teste Game - QA</h1>
 
-![Logo](https://github.com/Ingrid2110rj/testing-coodesh/blob/main/logo.jfif)
+<img src="https://www.hydragames.com.br/wp-content/uploads/2022/07/hydra_games.png" width="150" height="70">
+
+<b> Desafio Hydra Games </b>
 
 
 > Status do Projeto: :heavy_check_mark: (Concluído)
