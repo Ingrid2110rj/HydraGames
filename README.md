@@ -13,11 +13,13 @@
 
 ## Relatórios do Testes Manuais:
 
-> Toki Time: https://www.thunderkick.com/games/toki-time/
 
-> Erick the Red: https://www.n1casino.com/game/erik-the-red
+:small_blue_diamond:[Toki Time](https://docs.cypress.io/guides/overview/why-cypress)
 
-> Golden Fish Tank: https://www.n1casino.com/game/golden-fishtank
+:small_blue_diamond:[Erick the Red](https://docs.cypress.io/guides/overview/why-cypress)
+
+:small_blue_diamond:[Golden Fish](https://docs.cypress.io/guides/overview/why-cypress)
+
 
 
 ## Automação Erick the Red 
@@ -39,14 +41,14 @@ Funcionalidades:
 
 :warning: [Cypress](https://docs.cypress.io/guides/getting-started/installing-cypress#What-you-ll-learn)
 
-:warning: [Faker](https://www.npmjs.com/package/faker/v/5.5.3)
+
 
 ## Como rodar a aplicação :arrow_forward:
 
 No terminal, clone o projeto:
 
 ```
-git clone <https://github.com/Ingrid2110rj/testing-coodesh.git>
+git clone <https://github.com/Ingrid2110rj/HydraGames.git>
 
 ```
 
@@ -81,7 +83,7 @@ npx cypess open
 Para documentação de palavras-chave individuais, consulte o seguinte:
 
  - [Documentação Cypress](https://docs.cypress.io/guides/overview/why-cypress)
- - [Documentação Faker-br](https://www.npmjs.com/package/faker-br/)
+
  
 
 
