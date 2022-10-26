@@ -9,7 +9,7 @@
 
 ### Tópicos
 
-:small_blue_diamond: [https://github.com/Ingrid2110rj/HydraGames/blob/main/Descri%C3%A7%C3%A3odoProjeto.md)
+:small_blue_diamond: [Descrição do projeto](https://github.com/Ingrid2110rj/HydraGames/blob/main/Descri%C3%A7%C3%A3odoProjeto.md)
 
 ## Relatórios do Testes Manuais:
 
