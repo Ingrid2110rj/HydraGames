@@ -11,28 +11,27 @@
 
 :small_blue_diamond: [Descrição do projeto](https://github.com/Ingrid2110rj/testing-coodesh/blob/main/Descri%C3%A7%C3%A3odoProjeto.md)
 
+## Relatórios do Testes Manuais:
+
+> Toki Time: https://www.thunderkick.com/games/toki-time/
+
+> Erick the Red: https://www.n1casino.com/game/erik-the-red
+
+> Golden Fish Tank: https://www.n1casino.com/game/golden-fishtank
 
 
-## Funcionalidades
+## Automação Erick the Red 
+
+Funcionalidades:
 
 :heavy_check_mark: Home Page
 
-:heavy_check_mark: Página de Login/Cadastro
-
-:heavy_check_mark: Realização de Cadastro
-
-:heavy_check_mark: Preenchimento de perfil
-
-:heavy_check_mark: Página de Vagas
-
-:heavy_check_mark: Busca por empresa e visualização de vagas
-
-## Site testado:
-
-> https://beta.coodesh.com/
+:heavy_check_mark: Login
 
 
-## Pré-requisitos
+
+
+## Pré-requisitos da Automação:
 
 :warning: [NPM](https://docs.npmjs.com/cli/v6/commands/npm-install)
 
@@ -93,4 +92,4 @@ Para documentação de palavras-chave individuais, consulte o seguinte:
 
 
 
-Copyright :copyright: 2022 - QA Cypress Challenge for Coodesh
+Copyright :copyright: 2022 -Desafio Hydra Games
