@@ -55,7 +55,7 @@ git clone <https://github.com/Ingrid2110rj/HydraGames.git>
 Acesse a pasta do projeto no terminal/cmd:
 
 ```
-cd testing-coodesh
+cd HydraGames
 
 ```
 
