@@ -14,11 +14,11 @@
 ## Relatórios do Testes Manuais:
 
 
-:small_blue_diamond:[Toki Time](https://docs.cypress.io/guides/overview/why-cypress)
+:small_blue_diamond:[Toki Time](https://github.com/Ingrid2110rj/HydraGames/blob/main/TOKI-TIME.pdf)
 
-:small_blue_diamond:[Erick the Red](https://docs.cypress.io/guides/overview/why-cypress)
+:small_blue_diamond:[Erick the Red](https://github.com/Ingrid2110rj/HydraGames/blob/main/ERIK%20THE%20RED.pdf)
 
-:small_blue_diamond:[Golden Fish](https://docs.cypress.io/guides/overview/why-cypress)
+:small_blue_diamond:[Golden Fish](https://github.com/Ingrid2110rj/HydraGames/blob/main/GOLDEN-FISHTANK.pdf)
 
 
 
